@@ -1,4 +1,4 @@
-## Kenzie Hub 👩‍💻
+## DevHub 👩‍💻
 
 The purpose of this project, promoted by Kenzie Academy Brazil, was to be a <b>hub for programmers' portfolios</b>.
 
@@ -30,4 +30,4 @@ The layout was developed using the concept of mobile-first and responsiveness.
 - Styled-components
 - Material UI
 
-App link: https://kenzie-hub-rosy-ten.vercel.app/
+App link: https://kenzie-hub-rosy-ten.vercel.app
